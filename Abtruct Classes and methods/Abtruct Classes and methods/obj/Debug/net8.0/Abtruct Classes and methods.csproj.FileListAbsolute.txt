@@ -1,0 +1,14 @@
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\bin\Debug\net8.0\Abtruct Classes and methods.exe
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\bin\Debug\net8.0\Abtruct Classes and methods.deps.json
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\bin\Debug\net8.0\Abtruct Classes and methods.runtimeconfig.json
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\bin\Debug\net8.0\Abtruct Classes and methods.dll
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\bin\Debug\net8.0\Abtruct Classes and methods.pdb
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.AssemblyInfoInputs.cache
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.AssemblyInfo.cs
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.csproj.CoreCompileInputs.cache
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.dll
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\refint\Abtruct Classes and methods.dll
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.pdb
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\Abtruct Classes and methods.genruntimeconfig.cache
+C:\Users\lip\source\repos\Abtruct Classes and methods\Abtruct Classes and methods\obj\Debug\net8.0\ref\Abtruct Classes and methods.dll
